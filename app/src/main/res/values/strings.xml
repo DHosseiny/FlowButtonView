@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FlowButtonView</string>
+    <string name="hi">"Hi, now Nothing selected in spinner adapter. that's because it called NothingSelectedSpinnerAdapter"</string>
+
+    <string-array name="spinner_items">
+        <item>علاقه مندی ها</item>
+        <item>تنظیمات</item>
+        <item>راهنما</item>
+    </string-array>
+</resources>
